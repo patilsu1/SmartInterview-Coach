@@ -1,0 +1,56 @@
+Suchita Patil
+
+Seattle, Washington | LinkedIn | Contact: 201-680-8069 |Email:  Suchita.patil20@gmail.com
+
+Results-driven Technical Program Manager with 14+ years of experience in ERP implementation, HR data migration, and enterprise system modernization across global organizations, including Big 4, the U.S. Department of State, and a major U.S. energy company. Proven ability to drive large-scale cloud transformations, workforce transitions, and enterprise HCM implementations. Expertise in Oracle HCM Cloud Core HR, Payroll, Talent Management, and Workforce Management. Certified Oracle HCM Cloud (1Z0-1046) & ScrumMaster (CSM) with strong skills in Agile program execution, strategic planning, and stakeholder management.
+
+ 
+WORK EXPERIENCE
+
+Con Edison	 New York City, NY
+Technical Program Manager (Oracle HCM Cloud Consultant) 	Oct 2016- Present
+
+•	Enterprise HCM Cloud Migration: Led the end-to-end migration of Oracle HCM Cloud, managing Core HR, Payroll, and Benefits implementations across multiple business units.
+•	Cross-Functional Leadership: Engaged with HR, IT, and Finance teams to ensure alignment on HCM transformation goals, workforce planning, and cloud migration roadmaps.
+•	Data Migration & Governance: Designed data migration strategies, led mock conversions, cutover planning, and ensured data integrity & reconciliation using HCM Data Loader (HDL).
+•	Program Execution & Agile Delivery: Managed Agile program execution, tracking project status in JIRA and Confluence, and collaborating with offshore and onshore teams to meet key milestones.
+•	Risk Mitigation & Change Management: Defined risk management strategies, ensuring smooth workforce transitions while minimizing operational disruptions.
+•	Post-Implementation Optimization: Provided post-go-live support, troubleshooting system issues, updating Fast Formulas, and developing BI reports to optimize HR and Payroll processes.
+
+NY State Department	 Albany, NY
+Program Manager (ERP Consultant)	April 2015-Oct 2016
+
+•	Led the Peoplesoft Recruitment Module Implementation, configuring recruitment workflows to optimize talent acquisition and workforce planning.
+•	Developed and executed a data migration roadmap, overseeing the transfer of 1,000+ employee records to Peoplesoft while ensuring seamless system integration.
+•	Stakeholder Training & Adoption: Designed training materials and conducted user sessions, achieving 100% system adoption within 4 days of go-live.
+
+Ernst & Young (via Hexaware) 	 Secaucus, NJ
+ERP Consultant 	April 2010- April 2015
+
+•	Led ERP customization across 34 countries, ensuring compliance with local business regulations and multilingual support.
+•	Managed cross-functional global teams, overseeing project execution, task prioritization, and resource allocation, resulting in a 98% on-time delivery rate.
+•	Developed ad-hoc reports with Personal Identification Information (PII) controls, ensuring compliance with data security regulations.
+
+
+EDUCATION	
+
+Bachelor of Engineering (Computer Science)                     Pune University                                                  India
+
+
+
+SKILLS & INTERESTS
+
+•	Oracle HCM Cloud Implementation & Configuration (Core HR, Payroll, Talent Management, Workforce Management)
+•	Enterprise Cloud Migration & Workforce Planning
+•	Data Migration & Governance (HCM Data Loader, HDL, SQL, APIs)
+•	Agile Program Management ( Scrum, Jira, Azure DevOps)
+•	Risk Mitigation & Change Management
+•	Cross-Functional Leadership & Stakeholder Engagement
+•	Business Process Optimization & Strategic Planning
+•	Reporting & Analytics (OTBI, BI Publisher, Tableau)
+
+Certification: 
+
+•	Certified ScrumMaster (CSM)
+•	Oracle Peoplesoft Developer(1Z0-241)
+•	Oracle Global Human Resources Cloud 2024 Certified Implementation Professional (IZ0-1046)
