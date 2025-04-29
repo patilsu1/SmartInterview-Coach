@@ -14,7 +14,7 @@ Smart Interview Coach is an AI-powered chatbot that helps job seekers enhance th
 ## Tech Stack
 
 - Language: Python
-- AI Models: OpenAI GPT (via openai API)
+- AI Models: OpenAI GPT-4.1 (Github->Marketplace->Models->Azure OpenAI Service->OpenAI GPT-4.1)
 - Tools: Chainlit, GitHub Copilot, spaCy/nltk (optional for text processing)
 
 ## Getting Started
@@ -22,7 +22,7 @@ Smart Interview Coach is an AI-powered chatbot that helps job seekers enhance th
 ### Prerequisites
 
 - Python 3.8+
-- OpenAI API Key
+- OpenAI API Key(Github Personal access token)
 - Chainlit
 
 ### Install Dependencies
