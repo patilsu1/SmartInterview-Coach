@@ -2,7 +2,8 @@
 
 ## Overview
 
-Smart Interview Coach is an AI-powered chatbot that helps job seekers enhance their resumes and prepare for interviews by analyzing their current resume against a specific job description. It identifies skill gaps, suggests tailored resume edits, and generates custom interview questions with STAR-format sample answers.
+An AI-powered interview assistant that analyzes resumes and job descriptions to identify missing skills, suggest improvements, generate tailored interview questions, and provide STAR-format sample answers for effective preparation. 🚀
+
 
 ## Features
 
