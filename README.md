@@ -22,7 +22,7 @@ An AI-powered interview assistant that analyzes resumes and job descriptions to 
 
 ### Prerequisites
 
-- Python 3.8+
+- Python 3.13.2
 - OpenAI API Key(Github Personal access token)
 - Chainlit
 
